@@ -1,0 +1,1 @@
+This repository serves as a central place to store C++ implementations of common design patterns. It will be used as a personal reference for identifying low-level design opportunities at work and for preparing for technical interviews.
