@@ -1,0 +1,15 @@
+Validating order Burger and Fries
+Processing payment for order: Burger and Fries
+Preparing order: Burger and Fries
+Assigning delivery for order: Burger and Fries
+Tracking order: Burger and Fries
+OrderValidationHandler dtor called
+OrderHandler base destructor called
+PaymentProcessingHanlder dtor called
+OrderHandler base destructor called
+OrderPreparationHandler dtor called
+OrderHandler base destructor called
+DeliveryAssignmentHandler dtor called
+OrderHandler base destructor called
+OrderTrackingHandler dtor called
+OrderHandler base destructor called
