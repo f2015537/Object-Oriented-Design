@@ -1,0 +1,6 @@
+Elevator with id = 1 Moving from 5 to 10 using MovementStrategy1.
+Elevator with id = 2 Moving from 3 to 5 using MovementStrategy2.
+Admin 1 notified about status change in elevator 1
+Admin 2 notified about status change in elevator 1
+Admin 1 notified about status change in elevator 2
+Admin 2 notified about status change in elevator 2
