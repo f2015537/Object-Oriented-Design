@@ -1,0 +1,18 @@
+Admin Divyam notified: Status of FileSystemManager changed
+
+--- Listing All Contents ---
+File readme.txt contains
+This is a README
+Directory src contains 
+File log.txt contains
+Log started
+
+--- Total size ---
+27
+
+--- Deleting file1 ---
+
+--- Final Contents ---
+Directory src contains 
+File log.txt contains
+Log started
